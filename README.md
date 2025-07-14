@@ -1,0 +1,2 @@
+# MyFirstHostingDoc
+HTML based hosting
